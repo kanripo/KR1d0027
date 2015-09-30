@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:08.657149
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB05n0576-016儀禮疏-卷十六.
 <pb:KR1d0027_SBCK_016-1a>¶
 儀禮䟽卷第十六¶
 　　　　唐朝散大夫行太學博士弘文館學士臣賈公彦　等撰¶
@@ -243,4 +247,3 @@
 儀禮䟽卷第十六¶
 <pb:KR1d0027_SBCK_016-10b>¶
 <pb:KR1d0027_SBCK_016-10b>¶
-

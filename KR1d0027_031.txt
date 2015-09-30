@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:09.342771
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 31
+#+PROPERTY: FILE SB05n0576-031儀禮疏-卷三十一.
 <pb:KR1d0027_SBCK_031-1a>¶
 儀禮䟽卷第三十一¶
 　　　　唐朝散大夫行太學博士弘文館學士臣賈　公彦　等撰¶
@@ -428,4 +432,3 @@
 儀禮䟽卷第三十一¶
 <pb:KR1d0027_SBCK_031-14b>¶
 <pb:KR1d0027_SBCK_031-14b>¶
-

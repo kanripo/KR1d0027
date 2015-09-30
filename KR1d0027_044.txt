@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:09.944292
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 44
+#+PROPERTY: FILE SB05n0576-050儀禮疏-卷五十.
 <pb:KR1d0027_SBCK_044-1a>¶
 儀禮䟽卷第五十¶
 　　　　唐朝散大夫行太學博士弘文館學士臣賈公彦　等撰¶
@@ -418,4 +422,3 @@
 　　　　　平章事監修國史上柱國隴西郡開國公食邑三千八伯户(臣)李沆¶
 　　　推忠協謀翊戴佐理功臣特進守司空兼門下侍郎同中書門下平章¶
 　　　　　事昭文館大學士上柱國東平郡國公食邑五千七百戸(臣)吕蒙正¶
-

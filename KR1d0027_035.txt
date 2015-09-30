@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:09.520347
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 35
+#+PROPERTY: FILE SB05n0576-041儀禮疏-卷四十一.
 <pb:KR1d0027_SBCK_035-1a>¶
 儀禮䟽卷第四十一¶
 　　　　唐朝散大夫行太學博士&KR0042;文館學士臣賈公彦　等撰¶
@@ -407,4 +411,3 @@
 最輕旣不盡用故取其首尾者也¶
 儀禮䟽卷第四十一¶
 <pb:KR1d0027_SBCK_035-15a>¶
-

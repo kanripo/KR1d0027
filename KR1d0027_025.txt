@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:09.067116
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 25
+#+PROPERTY: FILE SB05n0576-025儀禮疏-卷二十五.
 <pb:KR1d0027_SBCK_025-1a>¶
 儀禮䟽卷第二十五¶
 　　　　唐朝散大夫行太學博士&KR0042;文館學士臣賈　公彦　等撰¶
@@ -353,4 +357,3 @@
 俎歸於尸三个是有所釋此無所釋故稱卷也彼注云釋猶遺也遺者¶
 君子不盡人之歡不竭人之忠也¶
 儀禮䟽卷第二十五¶
-

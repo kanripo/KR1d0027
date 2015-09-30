@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:08.415128
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB05n0576-012儀禮疏-卷十二.
 <pb:KR1d0027_SBCK_012-1a>¶
 儀禮䟽卷第十二¶
 　　　　唐朝散大夫行太學博士引文館學士臣賈公彦　等撰¶
@@ -484,4 +488,3 @@
 酬者稱字受酬者稱子子是尊稱云此言某酬某子者射禮略於飲酒¶
 飲酒言某子受酬以飲酒爲主者此郷射主於射略於飲酒故稱酬他¶
 <pb:KR1d0027_SBCK_012-17a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:09.159583
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB05n0576-027儀禮疏-卷二十七.
 <pb:KR1d0027_SBCK_027-1a>¶
 儀禮䟽卷第二十七¶
 　　　　唐朝散大夫行太學博士弘文館學士臣賈公彦　等撰¶
@@ -423,4 +427,3 @@
 白蒼與朱緑畫之者非謂絢組尺爲繫者彼所以繫玉固者也¶
 仪礼䟽卷第二十七¶
 <pb:KR1d0027_SBCK_027-14b>¶
-

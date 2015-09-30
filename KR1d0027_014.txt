@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:08.560476
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB05n0576-014儀禮疏-卷十四.
 <pb:KR1d0027_SBCK_014-1a>¶
 儀禮䟽卷第十四¶
 　　　　唐朝散大夫行太學愽士弘文館學士臣賈公彦等撰¶
@@ -413,4 +417,3 @@
 當酬處所以覆獻也但君恩旣大爲賔舉旅飲酒之禮成於酬故酬¶
 辨乃獻卿以君尊卿卑是以君禮成卿乃得獻故云别尊卑也¶
 儀禮䟽卷第十四¶
-

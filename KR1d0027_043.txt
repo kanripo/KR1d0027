@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:09.895994
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 43
+#+PROPERTY: FILE SB05n0576-049儀禮疏-卷四十九.
 <pb:KR1d0027_SBCK_043-1a>¶
 儀禮䟽卷第四十九¶
 　　　　唐朝散大夫行太學博士引文館學士臣賈公彦　等撰¶
@@ -409,4 +413,3 @@
 儀禮䟽卷第四十九¶
 　　　　　　　　　　　　　　　　　　閶门外洞泾　西¶
 　　　　　　　　　　　　　　　　　　青霞髙吳刻字¶
-

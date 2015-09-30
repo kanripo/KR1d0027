@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:08.827298
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB05n0576-020儀禮疏-卷二十.
 <pb:KR1d0027_SBCK_020-1a>¶
 儀禮䟽卷第二十¶
 　　　　唐朝散大夫行太學博士引文館學士臣賈　公彦　等撰¶
@@ -403,4 +407,3 @@
 袒右受刑是也知降立俟享也者下文賔行享是也¶
 <pb:KR1d0027_SBCK_020-13b>¶
 儀禮䟽卷第二十¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:08.740831
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB05n0576-018儀禮疏-卷十八.
 <pb:KR1d0027_SBCK_018-1a>¶
 儀禮䟽卷第十八¶
 　　　　唐朝散大夫行太學博士引文館學士臣賈公彦　等撰¶
@@ -350,4 +354,3 @@
 篇所解多不具者以其諸侯大夫射先行燕禮大射三畨多依郷射是以與¶
 禮同者於此不復重釋之也¶
 儀禮䟽卷第十八¶
-

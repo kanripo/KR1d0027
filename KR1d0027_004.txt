@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮疏
-#+DATE: 2015-09-23 09:37:40
+#+DATE: 2015-09-11 23:37:07.790285
+#+PROPERTY: ID KR1d0027
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0576-004儀禮疏-卷四.
 <pb:KR1d0027_SBCK_004-1a>¶
 儀礼䟽卷第四¶
 　　　　唐朝散大夫行太學博士弘文館學士臣賈　公彦　等撰¶
@@ -339,4 +343,3 @@
 將告神故女父先於廟設神席乃迎壻也¶
 <pb:KR1d0027_SBCK_004-11b>¶
 儀禮䟽卷第四¶
-
